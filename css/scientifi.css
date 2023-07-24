@@ -13,7 +13,7 @@
 }
 .calculator input[type=text]{
 	font-size: 1.5rem;
-	color:#333;
+	color:blue;
 }
 .calculator .btn {
 	font-size: 1.5rem;
